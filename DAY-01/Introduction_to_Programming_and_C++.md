@@ -31,9 +31,12 @@ To know and accomplish more of such interesting things , let’s now move to the
 
 **Category of Programming Languages**
 
-Programming languages that have been developed so far can majorly be categorised into: machine language, assembly language, and high-level language.
+Programming languages that have been developed so far can majorly be categorised into: 
+- Machine language
+- Assembly language
+- High-level language.
 
-**Machine Level Language :**
+**Machine Language :**
 
 As the name suggests, it is a low-level language made up of binary numbers or bits that a machine/computer can understand. It is a sequence of 0s and 1s. It is also known as machine code or object code. Any program that we write, finally transforms into the sequence of 0s and 1s  for the computer to understand.
 
