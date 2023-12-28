@@ -1,7 +1,7 @@
 <h1 align="center">
    Learning DSA That's Matter.  
 </h1>
-<h4 align="center">Make sure to :star: my DSA repo so you can keep up to date on any daily progress!</h4> 
+<h4 align="center">Make sure to :star: my DSA repo so you can keep up to date on daily progress!</h4> 
 <div align="center"></div>
 <br/>
 
@@ -39,7 +39,7 @@
 
 ## Connect with me. ***[LinkedIn](https://www.linkedin.com/in/khush-chaurasia-71b0a4214/)***, ***[GitHub](https://github.com/Khush0031)***
 
-***Do star, fork and share the repo to show your support, it would help others too!***   <br>
+***Do star, fork and share the repo to show your support,so that it would help other's too!***   <br>
  <br>
  Let me know your views on the repository or any changes or improvements at **[GitHub](https://github.com/Khush0031)**
  
