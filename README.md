@@ -36,3 +36,10 @@
   - Use appropriate variable names
 
 <br/>
+
+## Connect with me. ***[LinkedIn](https://www.linkedin.com/in/khush-chaurasia/)***, ***[GitHub](https://github.com/Khush0031)***
+
+***Do star, fork and share the repo to show your support, it would help others too!***   <br>
+ <br>
+ Let me know your views on the repository or any changes or improvements at **[GitHub](https://github.com/Khush0031)**
+ 
