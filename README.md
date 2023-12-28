@@ -37,7 +37,7 @@
 
 <br/>
 
-## Connect with me. ***[LinkedIn](https://www.linkedin.com/in/khush-chaurasia/)***, ***[GitHub](https://github.com/Khush0031)***
+## Connect with me. ***[LinkedIn](https://www.linkedin.com/in/khush-chaurasia-71b0a4214/)***, ***[GitHub](https://github.com/Khush0031)***
 
 ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
  <br>
