@@ -1,7 +1,7 @@
-**DAY-01 :**
+**`DAY-01 :`**
 
-**Introduction to Programming and C++**  
-**List of Concepts Involved :** 
+**`Introduction to Programming and C++ :`**  
+**`List of Concepts Involved :`** 
 
 - What is Programming.
 - Why do we need Programming.
@@ -9,7 +9,7 @@
 - Introduction to C++.
 - Difference between C and C++.
 
-**Topic 1 : What is Programming?**
+**`Topic 1 : What is Programming :`**
 
 Programming is simply creating a set of instructions for  a computer to perform a specific task. 
 Programming can be done using a variety of computer programming languages eg. `C`,`C++`,`Java` and the list is endless !. 
@@ -29,25 +29,28 @@ After you set your coffee machine to start at a certain time in  the morning, yo
 
 To know and accomplish more of such interesting things , let’s now move to the learning part of programming with programming languages.
 
-**Category of Programming Languages**
+**`Category of Programming Languages :`**
 
-Programming languages that have been developed so far can majorly be categorised into: machine language, assembly language, and high-level language.
+Programming languages that have been developed so far can majorly be categorised into: 
+- Machine language
+- Assembly language
+- High-level language.
 
-**Machine Level Language :**
+**`Machine Language :`**
 
 As the name suggests, it is a low-level language made up of binary numbers or bits that a machine/computer can understand. It is a sequence of 0s and 1s. It is also known as machine code or object code. Any program that we write, finally transforms into the sequence of 0s and 1s  for the computer to understand.
 
-**Assembly language :**
+**`Assembly language :`**
 
 Assembly language  is intended to communicate directly with a computer’s hardware. Unlike the usual  machine language, which consists of binary characters, assembly language is expressed in a more human readable form. In future many of you are going to learn and program microprocessors in your higher studies or jobs; that would require an expertise in assembly language.
 
-**High-level language :**
+**`High-level language :`**
 
 It refers to the programming languages that allow the use of symbolic operators (to signify operations, eg.`+`,`-`,`\`, `*` ,`/` etc.) and symbolic names(to represent data and data structures, eg. variable names).They are also structured with syntax and semantics to describe the computing algorithm/program.  
 This often requires the use of a compiler or
 an interpreter which helps in the  translation from high level human understandable code into low level machine code because the computer only works on the binary data. We will be learning and focussing on this category of language in our course. 
 
-**Topic 2: Why do we need Programming?**
+**`Topic 2: Why do we need Programming :`**
 
 Computers are ridiculously fast but contrary to the assumption of being  smart , they are extremely dumb machines. You might be wondering, what ?!  
 
@@ -63,13 +66,13 @@ Lets now see what are the different approaches which we can follow while program
 
 There are many types of paradigms that can be used based on the complexity of our application but we will focus on the most widely used here :
 
-**Topic 3: Types of Programming Paradigms :**
+**`Topic 3: Types of Programming Paradigms :`**
 
 - Procedural 
 - Functional 
 - Object Oriented
 
-**Procedural:**
+**`Procedural :`**
 
 Consider a scenario where a program has to collect some data from users (read), perform some calculations (calculate), and then display the result(print) when requested; a simple example of this scenario is any online transaction that you/your parents do. 
 
@@ -81,7 +84,7 @@ These procedures are also known as subroutines or functions and contain a series
 
 Some of the programming languages that enable us to use procedural approach  : `BASIC`, `FORTRAN`,`ALGOL`,`C`, `COBOL`, and `Pascal`.
 
-**Functional:**
+**`Functional :`**
 
 Let’s assume a scenario where  we have to perform lots of different operations on the same set of data. This can be in the domains such as the web, statistics, financial analysis, and machine learning. Here, the `functional programming paradigm` helps a lot.
 
@@ -91,7 +94,7 @@ The data/variables are passed in the function as parameters (for the functions t
 
 Languages that support this approach are: `Scala`,  `Erlang`, `Lisp`, etc.
 
-**Object Oriented:**
+**`Object Oriented :`**
 
 The program data is organized in classes and objects rather than functions and logic.
 
@@ -111,7 +114,7 @@ Yes, you guessed it right, **`it’s C++`** !!
 
 Let’s get started.
 
-**Topic 4: Introduction to C++**
+**`Topic 4: Introduction to C++ :`**
 
 - C++ is a popular programming language. 
 
@@ -129,7 +132,7 @@ Let’s get started.
 
 - As C++ is an object-oriented programming language so it  gives a clear structure to programs and allows code to be reused, lowering development costs.
 
-**Topic 5: Some basic differences between C and C++:**
+**`Topic 5: Some basic differences between C and C++ :`**
 
 - C is a structural programming language that doesn t provide any support for classes and objects but C++  is an object-oriented programming language, and it provides support for the concept of classes and objects.
 
