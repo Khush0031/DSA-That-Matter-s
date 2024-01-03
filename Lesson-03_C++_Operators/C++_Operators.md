@@ -2,8 +2,8 @@
 
   **`C++ Operators :`**
 
- **`List of Concepts Involved :`**
- • C++ Operators
+ **`List of Concepts Involved :`**  
+ •C++ Operators  
  •C++ operators precedence and their associativity
 
 **`Topic : C++ Operators`**
